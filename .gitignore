@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
-Thumbs.db
+Thumbs.dbnotebooks/Bridget_dta.ipynb
+notebooks/objective3_*

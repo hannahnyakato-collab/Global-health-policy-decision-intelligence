@@ -1,0 +1,76 @@
+Feature,Maternal,Maternal_norm,Domain
+UHC service coverage index,58.38586,1.0,Health System Strengthening
+"Population, total",43.563976,0.7457668306578353,Demographics
+"Immunization, DPT (% of children ages 12-23 months)",42.70293,0.7309976924342875,Maternal & Child Health
+Births attended by skilled health staff (% of total),36.54592,0.6253892444143595,Maternal & Child Health
+People using safely managed drinking water services (% of population),23.354317,0.3991195583613849,WASH
+"Tuberculosis case detection rate (%, all forms)",21.608454,0.3691735485473005,Infectious Disease Control
+Prevalence of hypertension (% of adults ages 30-79),20.2958,0.3466581796056957,Non-Communicable Diseases
+People using at least basic sanitation services (% of population),20.078299,0.34292748190457417,WASH
+"Incidence of tuberculosis (per 100,000 people)",19.379183,0.33093585679012744,Infectious Disease Control
+Age dependency ratio (% of working-age population),18.256512,0.3116791815618948,Demographics
+Adults (ages 15+) and children (0-14 years) living with HIV,13.319696,0.22700017731796004,Infectious Disease Control
+"Public spending on education, total (% of GDP)",13.29748,0.22661911617282454,Education
+"Labor force, total",13.205165,0.2250356781275786,Demographics
+Current health expenditure (% of GDP),12.330642,0.21003537493045346,Health Financing
+Population ages 65 and above (% of total population),12.297,0.2094583287004999,Demographics
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",10.644594,0.18111534514861075,Maternal & Child Health
+Domestic general government health expenditure (% of current health expenditure),10.427052,0.1773839441927651,Health Financing
+"Nurses and midwives (per 1,000 people)",9.300924,0.15806797258450309,Health Workforce
+Prevalence of overweight (% of children under 5),8.527149,0.14479575492258281,Nutrition
+"School enrollment, tertiary (% gross)",7.773339,0.13186598800618965,Education
+Exclusive breastfeeding (% of children under 6 months),7.3528337,0.12465324803708872,Maternal & Child Health
+"School enrollment, primary (% net)",5.686124,0.09606491949502696,Education
+People using safely managed sanitation services (% of population),5.4388866,0.09182416657981614,WASH
+Population growth (annual %),5.3242106,0.089857180269069,Demographics
+Out-of-pocket expenditure (% of current health expenditure),4.97914,0.0839383380837704,Health Financing
+People with basic handwashing facilities including soap and water (% of population),4.8173184,0.08116268431154952,WASH
+Domestic private health expenditure (% of current health expenditure),4.4393654,0.07467982497650284,Health Financing
+Adults (ages 15+) and children (ages 0-14) newly infected with HIV,4.3574386,0.07327457109527818,Infectious Disease Control
+Domestic general government health expenditure (% of GDP),4.30432,0.07236345142729139,Health Financing
+"Incidence of HIV, all (per 1,000 uninfected population)",4.2659144,0.07170469728993022,Infectious Disease Control
+Rural population (% of total population),4.070439,0.0683517948876157,Demographics
+"Physicians (per 1,000 people)",3.8003626,0.06371929478597393,Health Workforce
+AIDS estimated deaths (UNAIDS estimates),3.763386,0.06308505164863071,Infectious Disease Control
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),3.695441,0.06191962135036677,Nutrition
+Prevalence of current tobacco use (% of adults),3.552378,0.0594657254822303,Non-Communicable Diseases
+External health expenditure channeled through government (% of external health expenditure),3.5434332,0.059312299315008116,Health Financing
+Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),3.4824746,0.05826670362173044,Infectious Disease Control
+People using at least basic drinking water services (% of population),3.188842,0.053230154521752324,WASH
+Population ages 0-14 (% of total population),3.178519,0.053053088704267906,Demographics
+"Prevalence of wasting, weight for height (% of children under 5)",2.9068773,0.048393739709464444,Nutrition
+"Current health expenditure per capita, PPP (current international $)",2.8310673,0.04709340457205347,Health Financing
+"Incidence of malaria (per 1,000 population at risk)",2.6941426,0.04474479622764698,Infectious Disease Control
+Prevalence of syphilis (% of women attending antenatal care),2.5813954,0.042810893763530075,Infectious Disease Control
+Year,2.52672,0.04187307099909267,Demographics
+Net migration,2.5187852,0.041736968911659234,Demographics
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",2.3226318,0.03837243707756571,Non-Communicable Diseases
+Low-birthweight babies (% of births),2.2136316,0.036502805234209644,Maternal & Child Health
+Children orphaned by HIV/AIDS,2.184906,0.036010087821952516,Infectious Disease Control
+Treatment for hypertension (% of adults ages 30-79 with hypertension),2.1229358,0.0349471406047993,Non-Communicable Diseases
+"Primary completion rate, total (% of relevant age group)",1.994472,0.032743658306615214,Education
+"GNI per capita, Atlas method (current US$)",1.9393276,0.0317977909942363,Economic Development
+Newborns protected against tetanus (%),1.7984079,0.02938065819561589,Maternal & Child Health
+"Age dependency ratio, old",1.7834716,0.02912446249962708,Demographics
+People practicing open defecation (% of population),1.6736804,0.027241262985862203,WASH
+"Unemployment, total (% of total labor force)",1.5595411,0.02528348245097904,Economic Development
+Current health expenditure per capita (current US$),1.540889,0.02496355129392188,Health Financing
+Vitamin A supplementation coverage rate (% of children ages 6-59 months),1.5083019,0.02440459929344272,Maternal & Child Health
+Antiretroviral therapy coverage (% of people living with HIV),1.421216,0.02291085366960605,Infectious Disease Control
+"Prevalence of underweight, weight for age (% of children under 5)",1.3937312,0.022439419146657716,Nutrition
+"Hospital beds (per 1,000 people)",1.3456893,0.02161537785081305,Health System Strengthening
+Domestic general government health expenditure (% of general government expenditure),1.3173562,0.021129392816097593,Health Financing
+Tuberculosis treatment success rate (% of new cases),1.280298,0.02049375003032786,Infectious Disease Control
+Prevalence of anemia among pregnant women (%),1.0096909,0.01585214706814761,Nutrition
+"Prevalence of severe wasting, weight for height (% of children under 5)",0.91780376,0.014276047914761492,Nutrition
+"Fertility rate, total (births per woman)",0.85166085,0.013141528062979253,Maternal & Child Health
+Prevalence of anemia among children (% of children ages 6-59 months),0.8329414,0.012820441681393607,Nutrition
+"School enrollment, secondary (% net)",0.7590046,0.011552236708596779,Education
+External health expenditure (% of current health expenditure),0.73265195,0.011100221449938379,Health Financing
+Prevalence of overweight (% of adults),0.7102506,0.010715981078873327,Non-Communicable Diseases
+Risk of catastrophic expenditure for surgical care (% of people at risk),0.6903518,0.010374665832437326,Health Financing
+Prevalence of undernourishment (% of population),0.52155036,0.007479289975986064,Nutrition
+"Prevalence of HIV, total (% of population ages 15-49)",0.4580971,0.006390904491732348,Infectious Disease Control
+"Prevalence of stunting, height for age (% of children under 5)",0.3871906,0.0051746769040680405,Nutrition
+Urban population (% of total population),0.24635741,0.002759027972915479,Demographics
+Risk of impoverishing expenditure for surgical care (% of people at risk),0.0855051,0.0,Health Financing

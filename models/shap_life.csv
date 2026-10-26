@@ -1,0 +1,76 @@
+Feature,SHAP Importance
+UHC service coverage index,3.851428710673469
+Population growth (annual %),0.7659853201986181
+"Physicians (per 1,000 people)",0.5919889955517768
+People using safely managed drinking water services (% of population),0.47052085778593616
+People using at least basic sanitation services (% of population),0.46614515613468505
+"Immunization, DPT (% of children ages 12-23 months)",0.43625679151600294
+Prevalence of anemia among children (% of children ages 6-59 months),0.28576375416965694
+"Incidence of malaria (per 1,000 population at risk)",0.25644700784113394
+AIDS estimated deaths (UNAIDS estimates),0.18245099558144695
+"Fertility rate, total (births per woman)",0.17190655670289773
+Prevalence of anemia among pregnant women (%),0.13853330279445916
+"Incidence of HIV, all (per 1,000 uninfected population)",0.1026206850432521
+Adults (ages 15+) and children (0-14 years) living with HIV,0.09964703061288302
+Prevalence of hypertension (% of adults ages 30-79),0.09688343329060066
+"School enrollment, tertiary (% gross)",0.08107683581869472
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),0.07840844841085151
+"Labor force, total",0.07087782385861191
+"Current health expenditure per capita, PPP (current international $)",0.058679539748496955
+Prevalence of current tobacco use (% of adults),0.05808153536675205
+"Population, total",0.05636060932591993
+"Nurses and midwives (per 1,000 people)",0.05592558523283154
+"Unemployment, total (% of total labor force)",0.05472427353655348
+Age dependency ratio (% of working-age population),0.05217434892021158
+Year,0.04582854931258324
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",0.04491463684639155
+"Prevalence of underweight, weight for age (% of children under 5)",0.041769868919861154
+Net migration,0.041440417786596
+"Incidence of tuberculosis (per 100,000 people)",0.04143750473088246
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",0.040421226923837025
+Population ages 0-14 (% of total population),0.03976564435775116
+"GNI per capita, Atlas method (current US$)",0.03974337385582059
+Prevalence of syphilis (% of women attending antenatal care),0.03889627352195988
+"Tuberculosis case detection rate (%, all forms)",0.03861425406841525
+"Primary completion rate, total (% of relevant age group)",0.037942280786104274
+Adults (ages 15+) and children (ages 0-14) newly infected with HIV,0.03591271412411656
+Antiretroviral therapy coverage (% of people living with HIV),0.03217128452297787
+"Prevalence of HIV, total (% of population ages 15-49)",0.02928719674661287
+Prevalence of overweight (% of adults),0.0273065620904318
+Treatment for hypertension (% of adults ages 30-79 with hypertension),0.025577262809902905
+"School enrollment, secondary (% net)",0.024242222427671836
+Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),0.021830392707205264
+Domestic general government health expenditure (% of GDP),0.02087164239735471
+"Prevalence of severe wasting, weight for height (% of children under 5)",0.019949394316044294
+Rural population (% of total population),0.019774781509984157
+Population ages 65 and above (% of total population),0.01886578902368091
+People practicing open defecation (% of population),0.018262376954887156
+Exclusive breastfeeding (% of children under 6 months),0.017442492999364023
+Urban population (% of total population),0.016804945243946306
+Children orphaned by HIV/AIDS,0.015501032819988762
+People with basic handwashing facilities including soap and water (% of population),0.015449118335369348
+Prevalence of overweight (% of children under 5),0.015144952085865
+"Age dependency ratio, old",0.01437507715002239
+Tuberculosis treatment success rate (% of new cases),0.012970372452099
+Current health expenditure per capita (current US$),0.012131014023664104
+Newborns protected against tetanus (%),0.011697034711917543
+Out-of-pocket expenditure (% of current health expenditure),0.011616742756221517
+"Hospital beds (per 1,000 people)",0.011613345290005402
+People using safely managed sanitation services (% of population),0.010958704712222014
+"Prevalence of stunting, height for age (% of children under 5)",0.010739403216100687
+Prevalence of undernourishment (% of population),0.01053034441241027
+"Prevalence of wasting, weight for height (% of children under 5)",0.010159124941179992
+Births attended by skilled health staff (% of total),0.009933628884816576
+Vitamin A supplementation coverage rate (% of children ages 6-59 months),0.009668151096268958
+Domestic general government health expenditure (% of general government expenditure),0.009628135962401781
+Domestic general government health expenditure (% of current health expenditure),0.00945305154709705
+People using at least basic drinking water services (% of population),0.009051496977158605
+External health expenditure channeled through government (% of external health expenditure),0.007916764641507071
+External health expenditure (% of current health expenditure),0.007506820426023332
+"Public spending on education, total (% of GDP)",0.007434806440879756
+Current health expenditure (% of GDP),0.007346295450623321
+"School enrollment, primary (% net)",0.007261095338131286
+Risk of catastrophic expenditure for surgical care (% of people at risk),0.00626142593652318
+Domestic private health expenditure (% of current health expenditure),0.004996371811918971
+Risk of impoverishing expenditure for surgical care (% of people at risk),0.004497166457613378
+Low-birthweight babies (% of births),0.004079322164564776
